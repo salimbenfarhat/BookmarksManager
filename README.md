@@ -45,7 +45,7 @@ Exemple : **```cd C:\SERVEUR\www\bookmarksmanager\bookmarksmanager```**.
 * ID [**sabdemo_bm003@yopmail.com**] | MDP [**demo003**]   
 
 ## Historique des Versions
-**Dernière version stable :** 1.0
+**Dernière version stable :** [1.0](https://github.com/salimbenfarhat/BookmarksManager/releases/tag/v1.0)
 
 
 ## Auteur
